@@ -1,0 +1,6 @@
+framework module Pods_CryptoPricePro_CryptoPriceProUITests {
+  umbrella header "Pods-CryptoPricePro-CryptoPriceProUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
